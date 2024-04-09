@@ -3,7 +3,36 @@
 
 
 
-# *01. Churn Rates Calculation*
+# *Feature Description*
+
+    *id:* The unique identifier for each entry in the dataset.
+    NAME: The name associated with the accommodation listing.
+    host id: The unique identifier for the host of the accommodation.
+    host_identity_verified: A binary indicator (possibly 0 or 1) to show whether the host's identity has been verified.
+    host name: The name of the host.
+    neighbourhood group: The broader geographical grouping of neighborhoods.
+    neighbourhood: The specific neighborhood where the accommodation is located.
+    lat: Latitude coordinate of the accommodation.
+    long: Longitude coordinate of the accommodation.
+    country: The country where the accommodation is situated.
+    country code: The country code associated with the country.
+    instant_bookable: A binary indicator for whether the accommodation can be instantly booked.
+    cancellation_policy: The policy governing cancellations for bookings.
+    room type: The type of room offered in the accommodation.
+    Construction year: The year in which the accommodation was constructed.
+    price: The cost of booking the accommodation.
+    service fee: Fee associated with the service.
+    minimum nights: The minimum number of nights required for booking.
+    number of reviews: The total number of reviews received for the accommodation.
+    last review: The date of the last review.
+    reviews per month: The average number of reviews received per month.
+    review rate number: A metric or number related to the rate of reviews.
+    calculated host listings count: The count of listings attributed to the host.
+    availability 365: The number of days the accommodation is available over a year.
+    house_rules: Rules or policies associated with staying in the accommodation.
+    license: The license or legal documentation associated with the accommodation.
+
+
 
 ## Project Goals
    Four months into launching Codeflix, management asks to look into subscription churn rate. It’s early on in the business and people are excited to know how the company is doing. The marketing department is particularly interested in how the churn compares between two segments of users. They provide a dataset containing subscription data for users who were acquired through two distinct channels.
