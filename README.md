@@ -43,7 +43,13 @@
    
 <br><br><br>   
    
-   # *02. Marketing Click Through Rate Analytics*
+   # *01.Understand Business problem* 
+   # *02.Preparing The Data *
+   # *03.Exploratory Data Analysis(EDA)*
+   # *04.Modeling The Data*
+   # *05.Evaluating The Model*
+   # *05.Deploying The Model*
+   
 
 
    ## Project Goals
