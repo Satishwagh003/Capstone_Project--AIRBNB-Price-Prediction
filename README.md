@@ -5,7 +5,7 @@
 
 # *Feature Description*
 
-    *id:* The unique identifier for each entry in the dataset.
+    id: The unique identifier for each entry in the dataset.
     NAME: The name associated with the accommodation listing.
     host id: The unique identifier for the host of the accommodation.
     host_identity_verified: A binary indicator (possibly 0 or 1) to show whether the host's identity has been verified.
